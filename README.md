@@ -46,4 +46,5 @@ You can customize the message sent by the Kafka producer by editing the `produce
 
 To stop and remove the Docker containers and resources, run:
 
-    ```bash docker-compose down
+   ```bash 
+   docker-compose down
